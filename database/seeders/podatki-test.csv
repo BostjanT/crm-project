@@ -1,0 +1,13 @@
+zm;1;X_____;;;
+mm;2;_X____;;;
+pc;3;__X___;;;
+ph;4;___X__;;;
+sm;5;____X_;;;
+tk;6;_____X;;;
+;;;;;
+;;;;;
+Polje znaŸilnosti je string dolg 6 mest. Tiste znaŸilnosti kot so izbrani, na tistem mestu je X. Primeri spodaj;;;;;
+zm;-->;X_____;;;
+zm,mm,pc,ph;-->;XXXX__;;;
+zm,pc,ph,sm,tk;-->;X_XXXX;;;
+mm,pc,sm;-->;_XX__X_;;;
